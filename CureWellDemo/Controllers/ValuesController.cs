@@ -12,7 +12,7 @@ namespace CureWellDemo.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value10","value5" };
+            return new string[] { "value1", "value10", "value8" };
         }
 
         // GET api/values/5
