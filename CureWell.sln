@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CureWellDemo", "CureWellDemo\CureWellDemo.csproj", "{4EF795FE-8A84-41CF-99A9-86074F22CBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF795FE-8A84-41CF-99A9-86074F22CBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF795FE-8A84-41CF-99A9-86074F22CBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF795FE-8A84-41CF-99A9-86074F22CBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF795FE-8A84-41CF-99A9-86074F22CBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1FA9B3-0AB7-403A-B99B-086AAC62D91B}
+	EndGlobalSection
+EndGlobal
