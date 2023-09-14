@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace CureWellDemo.Controllers
+namespace CureWellDemo.Controllers1
 {
     public class ValuesController : ApiController
     {
